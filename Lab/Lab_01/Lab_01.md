@@ -32,6 +32,8 @@ algoritma tersebut, yaitu sebagai berikut:
   > Misal X = 420, maka X akan menjadi 20  
   > Misal X = 1232, maka X akan menjadi 32
 
+- Nomor unik adalah hasil akhir dari nilai X
+  
 Ruben berencana membuat program untuk menghasilkan nomor unik berdasarkan
 algoritma tersebut, namun karena terlalu mudah, ia tidak ingin mengerjakannya
 sendiri dan meminta kalian, teman Ruben sesama maba Fasilkom UI 2018 untuk 
